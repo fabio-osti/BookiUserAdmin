@@ -1,12 +1,20 @@
 {
   "profiles": {
-    "BookiNetAdmin": {
-      "commandName": "Project",
-      "commandLineArgs": "fabio.osti@hotmail.com"
-    },
     "WSL": {
       "commandName": "WSL2",
       "distributionName": ""
+    },
+    "Create": {
+      "commandName": "Project",
+      "commandLineArgs": "--c\r\nfabio.osti@protonmail.com\r\nfinsDeTeste"
+    },
+    "Promote": {
+      "commandName": "Project",
+      "commandLineArgs": "--p\r\nfabio.osti@protonmail.com"
+    },
+    "Demote": {
+      "commandName": "Project",
+      "commandLineArgs": "--d\r\nfabio.osti@protonmail.com"
     }
   }
 }
