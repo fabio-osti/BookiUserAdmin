@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BookiNetAdmin": {
+      "commandName": "Project",
+      "commandLineArgs": "fabio.osti@hotmail.com"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
